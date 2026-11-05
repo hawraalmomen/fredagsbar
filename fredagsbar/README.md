@@ -2,6 +2,11 @@
 
 En simpel fredagsbar-applikation med en Flask API og en Streamlit frontend.
 
+## Forudsætninger
+
+- Docker Desktop skal være installeret og startet.
+- Docker Compose skal være tilgængeligt.
+
 ## Start med Docker
 
 Kør følgende kommando fra projektets rodmappe:
